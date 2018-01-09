@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-- <a href="https://public.tableau.com/profile/minra#!/vizhome/children_0/1?publish=yes" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a51dae1bd0a2.png)</a>
+- <a href="https://public.tableau.com/profile/minra#!/vizhome/children_0/1?publish=yes" target="_blank">![image](https://ws1.sinaimg.cn/large/747b3f6fgy1fnau672h4nj20rc0lsn4w.jpg)</a>
 
 其他作品
 <div class="tiles">
