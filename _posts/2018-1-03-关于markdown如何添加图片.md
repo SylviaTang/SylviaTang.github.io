@@ -8,7 +8,8 @@ image:
   feature: md.png
 ---
 
-markdown添加图片的方法 & 分享软件·有道云笔记
+## markdown添加图片的方法 & 分享软件·有道云笔记
+
 ## markdown添加图片的方法
 
 我一开始用的是<a href="http://jiantuku.com/#/" target="_blank">极简图床</a>.这个图床需要注册账号，然后选择上传方式的时候，可以选择用微博图床或者登录七牛账号获得储存空间。另外，需要安装chrome插件。
