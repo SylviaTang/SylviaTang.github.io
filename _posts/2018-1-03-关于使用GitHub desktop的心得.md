@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "关于使用GitHub desktop的心得"
-date:   2017-12-01 22:07:50 +0800
+date:   2018-1-03 22:07:50 +0800
 categories: posts rwd
 image:
   teaser: github-desktop-icon.svg
