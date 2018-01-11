@@ -6,7 +6,7 @@ modified:
 excerpt: "( ´·ᴗ·` )"
 tags: []
 image: 
-  feature: notes.gif
+  feature: 
   teaser:
 ---
 

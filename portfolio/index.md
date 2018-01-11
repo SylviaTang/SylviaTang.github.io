@@ -6,7 +6,7 @@ modified:
 excerpt: "(๑•ᴗ•๑)"
 tags: []
 image: 
-  feature: contact me.gif
+  feature: 
   teaser:
 ---
 
